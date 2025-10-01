@@ -1,0 +1,8 @@
+# No external dependencies required
+# This application uses only Python standard library modules:
+# - tkinter (included with Python)
+# - socket (included with Python)
+# - threading (included with Python)
+# - os (included with Python)
+# - platform (included with Python)
+# - json (included with Python)
